@@ -38,7 +38,7 @@ Durante o desenvolvimento, pude explorar diversos conceitos fundamentais para qu
 
 ## ⚙️ Tecnologias Utilizadas
 
-- Python 3.12.1
+- [Python 3.12.1] (https://docs.python.org/release/3.12.1/)
 - [Polars 0.20.3](https://pola.rs/)
 - [DuckDB 0.10.0](https://duckdb.org/)
 - [Dask 2024.2.0](https://www.dask.org/)
@@ -55,7 +55,7 @@ O **DuckDB** apresentou o melhor desempenho, graças à sua arquitetura otimizad
 
 ### 1. Clone este repositório
 ```bash
-git clone https://github.com/seu-usuario/desafio-1-bilhao-linhas-python.git
+git clone https://github.com/Rafasansouza/desafio-1-bilhao-linhas-python.git
 cd desafio-1-bilhao-linhas-python
 ```
 
