@@ -1,8 +1,10 @@
+package-mode = false
+
 [tool.poetry]
-name = "one-billion-row-challenge-python"
+name = "desafio-1-bilhao-linhas-python"
 version = "0.1.0"
 description = ""
-authors = ["Luciano Filho <lvgalvaofilho@gmail.com>"]
+authors = ["Rafael Souza <rafasansou1@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
